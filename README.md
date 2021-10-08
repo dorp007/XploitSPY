@@ -50,7 +50,7 @@ A cloud based Android Monitoring Tool, powered by NodeJS
 
 6. Find your public IP `curl ifconfig.me`
 
-7. In your browser navigate to your Server Static IP Address` Ex.: http://192.168.55.203`
+7. In your browser navigate to your Server Static IP Address and port 22588` Ex.: http://192.168.55.203`
 
 8. Login details
      - `Username : admin`
